@@ -5,8 +5,6 @@ An autonomous AI agent that decides which tool to use for your question and chai
 **Live demo:** https://ai-agent-52.streamlit.app/
 *(Bring your own OpenAI key — enter it in the sidebar. Nothing is stored.)*
 
-**Demo video:** `paste your 60-second screen recording link here`
-
 ---
 
 ## What it does
